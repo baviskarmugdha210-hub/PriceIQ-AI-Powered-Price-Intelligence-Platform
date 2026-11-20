@@ -1,0 +1,3 @@
+Sample rows: 100000
+Columns: 41
+Duplicate rows in sample: 0

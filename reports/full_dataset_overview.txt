@@ -1,0 +1,7 @@
+Total records: 295451
+Total columns: 41
+
+Invalid value counts:
+Invalid prices: 10288
+Invalid years: 9273
+Negative odometer: 0
