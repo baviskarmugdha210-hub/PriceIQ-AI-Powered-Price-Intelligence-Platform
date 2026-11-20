@@ -1,0 +1,27 @@
+
+# Dataset files
+data/raw/
+data/processed/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model files and artifacts
+models/*
+mlruns/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# IDE
+.vscode/
